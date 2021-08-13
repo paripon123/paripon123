@@ -11,3 +11,16 @@
 - 😄 Pronouns: Pa-ri-pon AKA POP
 - ⚡ Fun fact: I love to travel and Learn
 
+
+#### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paripon123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paripon123&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[linkedin]: https://www.linkedin.com/in/paripon-thanthong/
+
+
