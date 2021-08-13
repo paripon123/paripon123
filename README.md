@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on multiple data engineer project and skills
 - 🌱 I’m currently learning EVERYTHING!
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 - 😄 Pronouns: Pa-ri-pon AKA POP
 - ⚡ Fun fact: I love to travel and Learn
 
